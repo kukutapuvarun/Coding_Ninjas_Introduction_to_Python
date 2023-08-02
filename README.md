@@ -1,1 +1,2 @@
-# Coding_Ninjas_Introduction_to_Python
+# Coding Ninjas
+## Introduction to Python
